@@ -1,6 +1,6 @@
 document.body.scrollTop = document.documentElement.scrollTop = 0;
 
-var proxyURL = "http://ec2-52-36-218-196.us-west-2.compute.amazonaws.com/browse.php?u=";
+var proxyURL = "http://ec2-52-33-121-221.us-west-2.compute.amazonaws.com/browse.php?u=";
 
 var curURL = document.URL;
 
