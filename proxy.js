@@ -1,6 +1,6 @@
 document.body.scrollTop = document.documentElement.scrollTop = 0;
 
-var proxyURL = "http://52.33.121.221//browse.php?u=";
+var proxyURL = "http://52.33.121.221/browse.php?u=";
 
 var curURL = document.URL;
 
